@@ -1,8 +1,7 @@
-# Weather App
+### 🌦️ Weather App
+A simple weather application built using HTML, CSS, JavaScript, and the OpenWeather API. The app allows users to check the current weather, forecast, and more based on their location or a city of their choice.
 
-A simple weather application built using **HTML**, **CSS**, **JavaScript**, and the **OpenWeather API**. The app allows users to check the current weather, forecast, and more based on their location or a city of their choice.
-
-## Live Demo
+### 🌐 Live Demo
 
 You can view the live demo of the project here:
 
@@ -15,9 +14,6 @@ You can view the live demo of the project here:
 - **Search by city**: Users can search the weather by entering a city name.
 - **Automatic location detection**: The app detects the user's location and shows the weather accordingly.
 
-## Screenshots
-
-![Weather App](https://res.cloudinary.com/dkiqoznwu/image/upload/v1735740198/your_screenshot_url.jpg)
 
 <!-- Replace with actual screenshot URL -->
 
