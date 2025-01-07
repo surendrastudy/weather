@@ -1,4 +1,4 @@
-const apiKey = "c2f97dec5475455d0da1664673090455";
+const apiKey = "Enter Your Api Key here "
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";//bangalore
 
 
